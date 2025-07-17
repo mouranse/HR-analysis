@@ -26,4 +26,9 @@ This project presents an HR data analysis solution, using MySQL for data transfo
 4. Open `HR_Analysis_Dashboard.pbix` in Power BI Desktop.
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](images/dashboard_preview.png)
+
+<img width="1298" height="726" alt="hr analysis dashboard 1" src="https://github.com/user-attachments/assets/5f939797-d1c9-4323-9160-46d026213409" />
+
+<img width="1307" height="733" alt="hr analysis dashboard 2" src="https://github.com/user-attachments/assets/013460e4-fa69-4150-b9a8-43231327a9d1" />
+
+<img width="1303" height="729" alt="hr analysis dashboard 3" src="https://github.com/user-attachments/assets/f7ad9faa-6ad3-4311-ba25-37b70bafead8" />
